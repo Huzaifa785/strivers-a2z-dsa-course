@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Compiled binaries
+*.o
+*.out
+*.exe
