@@ -29,14 +29,12 @@ strivers-a2z-dsa-course-sheet/
 
 ## all days
 
-* [day00: setup vscode for dsa and cp notes](day00:%20setup-vscode-for-dsa-and-cp/notes.md)
-* [day01: <topic>](day01:<topic>/notes.md)
-* [day02: <topic>](day02:<topic>/notes.md)
+* [day00: setup vscode for dsa and cp notes](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/day00%3A%20setup-vscode-for-dsa-and-cp/notes.md)
 
 ## today
 
-so today: [day00: setup vscode for dsa and cp notes](day00:%20setup-vscode-for-dsa-and-cp/notes.md) ✅
+so today: [day00: setup vscode for dsa and cp notes](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/day00%3A%20setup-vscode-for-dsa-and-cp/notes.md) ✅
 
 ## journey so far
 
-![Repo Activity](https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa785&repo=strivers-a2z-dsa-course&show_icons=true&theme=dark)
+![days completed](https://img.shields.io/badge/days_completed-1-brightgreen)
