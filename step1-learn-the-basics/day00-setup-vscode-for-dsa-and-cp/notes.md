@@ -71,4 +71,4 @@ i modified it a bit according to my folder structure.
 
 so yeah then i wrote the code as he showed, and ran using `cmd + shift + b` (macos) and it worked.
 
-see you tomorrow!
+wrapping up 11th december 2025 and see you tomorrow!
