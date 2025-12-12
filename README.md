@@ -5,35 +5,15 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## repository structure
+## today - 11th december 2025
 
-```
-strivers-a2z-dsa-course-sheet/
-│
-├── day00: <topic>/
-│   ├── filename.cpp
-│   ├── filename.cpp
-│   ├── input.txt
-│   └── notes.md
-├── day01: <topic>/
-│   └── ...
-├── README.md
-└── .gitignore
-```
-
-* each day folder contains problems solved for that day, along with notes.
-* `input.txt` / `output.txt` are used for local testing only.
-* `.vscode/` and other editor-specific files are ignored.
+so today: [day00: setup vscode for dsa and cp notes](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day00-setup-vscode-for-dsa-and-cp/notes.md) ✅
 
 ---
 
 ## all days
 
-* [day00: setup vscode for dsa and cp notes](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/day00%3A%20setup-vscode-for-dsa-and-cp/notes.md)
-
-## today
-
-so today: [day00: setup vscode for dsa and cp notes](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/day00%3A%20setup-vscode-for-dsa-and-cp/notes.md) ✅
+* [day00: setup vscode for dsa and cp notes](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day00-setup-vscode-for-dsa-and-cp/notes.md)
 
 ## journey so far
 

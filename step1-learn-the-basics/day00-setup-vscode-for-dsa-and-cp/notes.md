@@ -51,7 +51,7 @@ here's the `.vscode/tasks.json` code if you need:
         {
             "label": "compile and run",
             "type": "shell",
-            "command": "g++ -std=c++17 -o ${fileDirname}/${fileBasenameNoExtension} ${file} && ${fileDirname}/${fileBasenameNoExtension} < ${fileDirname}/input.txt > ${fileDirname}/output.txt",
+            "command": "g++ -std=c++17 -o ${fileDirname}/${fileBasenameNoExtension} ${file} && ${fileDirname}/${fileBasenameNoExtension} < ${workspaceFolder}/input.txt > ${workspaceFolder}/output.txt",
             "presentation": {
                 "echo": false,
                 "reveal": "never",
@@ -67,7 +67,7 @@ here's the `.vscode/tasks.json` code if you need:
 }
 ```
 
-i modified it a bit because i wanted input and output in each folder respectively.
+i modified it a bit according to my folder structure.
 
 so yeah then i wrote the code as he showed, and ran using `cmd + shift + b` (macos) and it worked.
 
