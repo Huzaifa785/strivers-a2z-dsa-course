@@ -5,7 +5,7 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 13 december 2025
+## today - 13th december 2025
 
 so today: [day02: c++ basics](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day02-c++basics/notes.md) ✅
 

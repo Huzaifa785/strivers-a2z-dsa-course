@@ -1,4 +1,4 @@
-## 13 december 2025: c++ basics
+## 13th december 2025: c++ basics
 
 today i'll be continuing through some of the c++ basics that he shows in c++ in one shot video and these are the points i'll be covering specifically:
 1. switch statement
