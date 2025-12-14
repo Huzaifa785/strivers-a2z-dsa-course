@@ -96,12 +96,12 @@ so now if i dig a bit, i can see that, this is how it would look:
 so now i can say the number of iterations look like this, for first time it's 1, then 2, then 3, like 
 [1 + 2 + 3 + 4 + 5 + 6, ............. n]
 
-and we know the formula for sum of first n natural numbers which is `N * (N+1) / 2` that is equal to `O(N² / 2 + N / 2)` so this is the actual time complexity:
-![formula of sum of natual numbers](./images/formula.png)
+and we know the formula for sum of first n natural numbers which is `N * (N+1) / 2` that is equal to `O(N² / 2 + N / 2)` so this is the actual time complexity:<br />
+![formula of sum of natual numbers](./images/formula.png)<br />
 *image credits: time and space complexity - strivers a2z dsa course video*
 
-since Big-O ignores lower-order terms or say smaller values, we drop `O(N/2) ` from `O(N²/2 + N/2)`, which gives `O(N²/2)`. further, Big-O ignores constant things, so `O(N²/2)` simplifies to O(N²).
-![formula of sum of natual numbers](./images/final.png)
+since Big-O ignores lower-order terms or say smaller values, we drop `O(N/2) ` from `O(N²/2 + N/2)`, which gives `O(N²/2)`. further, Big-O ignores constant things, so `O(N²/2)` simplifies to O(N²).<br />
+![formula of sum of natual numbers](./images/final.png)<br />
 *image credits: time and space complexity - strivers a2z dsa course video*
 
 ---
