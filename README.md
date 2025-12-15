@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 14th december 2025
+## today - 15th december 2025
 
-so today: [day03: time complexity](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day03-time-complexity/notes.md) ✅
+so today: [day04: space complexity](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day04-space-complexity/notes.md) ✅
 
 ---
 
@@ -17,7 +17,8 @@ so today: [day03: time complexity](https://github.com/Huzaifa785/strivers-a2z-ds
 * [day01: c++ basics](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day01-c++basics/notes.md)
 * [day02: c++ basics](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day02-c++basics/notes.md)
 * [day03: time complexity](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day03-time-complexity/notes.md)
+* [day04: space complexity](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day04-space-complexity/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-4-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-5-brightgreen)
