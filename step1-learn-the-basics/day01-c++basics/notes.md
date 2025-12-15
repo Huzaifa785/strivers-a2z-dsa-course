@@ -67,7 +67,7 @@ int main () {
 
 ---
 
-for all the next points, i guess writing code was self expplanatory so i'm not writing any notes for the same here, you could refer my code files for respective topic for this day
+for all the next points, i guess writing code was self explanatory so i'm not writing any notes for the same here, you could refer my code files for respective topic for this day
 
 and yeah here's the data types ranges:
 ![data types ranges](images/datatypes.png)

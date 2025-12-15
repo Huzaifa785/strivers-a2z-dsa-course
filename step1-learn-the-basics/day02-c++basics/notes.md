@@ -21,7 +21,7 @@ so there were main things we learnt like if we not have break after each case, t
 in arrays i learn about 1d array and 2d array. in 1d array we store values of same data type, like it's a collection of elements of same data types. for example, if you have integers, you define an integer array like `int arr[5]`. so this will store 5 elements of integer data types. and if you give one element like 8.3, so it'll just store 8. also, arrays are stored somewhere in memory, but wherever the 0th index's address is, the index's addresses will be consecutively after it.
 
 refer the image below to see how arrays are stored.
-![array visualisation](images/array.png)
+![array visualisation](images/array.png)<br />
 img credits: programiz
 
 moving on to 2d array, we define it as `int arr[3][5]`, so here 3 means, number of rows, and, 5 means, number of columns. you'll understand it more clearly, just see this image.

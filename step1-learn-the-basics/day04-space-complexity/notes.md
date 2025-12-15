@@ -33,7 +33,7 @@ because in software engineering, if there's some data or input that you need to 
 
 whenever you do competitive programming in interviews or on leetcode, gfg or wherever, you run on their servers and not on your machine.
 
-so at a time many people runs their program on the same server and usually it take 1s to compute a program which means it does approximately 10<sup>8</sup> operations, ignoring constant, lower values and all, it might be something a bit or a bit less, but it's always around 10<sup>8</sup> operations in 1s.
+so at a time many people runs their program on the same server and usually it take 1s to compute a program which means it does approximately 10<sup>8</sup> operations, ignoring constant, lower values and all, it might be something a bit more or a bit less, but it's always around 10<sup>8</sup> operations in 1s.
 
 for 2s it would be 2 * 10<sup>8</sup> and so on.
 
