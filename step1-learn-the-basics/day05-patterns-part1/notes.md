@@ -47,7 +47,7 @@ for (int i = 0; i < 4; i++) {
 ```
 second step done.
 
-now moving on to 3rd step, printing. so here we need to print * and also make sure for that we want a newline for each i iteration, so i can write the final code like this"
+now moving on to 3rd step, printing. so here we need to print * and also make sure for that we want a newline for each i iteration, so i can write the final code like this:
 ```cpp
 for (int i = 0; i < 4; i++) {
     for (int j = 0; j < 4; j++) {
