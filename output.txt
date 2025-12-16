@@ -1,7 +1,8 @@
-value inside modifyArray function 17
-17
-20
-30
-40
-50
-value inside int main 17
+***
+***
+***
+*****
+*****
+*****
+*****
+*****
