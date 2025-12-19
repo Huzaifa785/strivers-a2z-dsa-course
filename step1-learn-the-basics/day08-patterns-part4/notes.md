@@ -2,7 +2,7 @@
 
 ---
 
-today i'll be solving fifth and sixth pattern.
+today i'll be solving fifth pattern.
 
 q5.
 ```
@@ -11,15 +11,6 @@ q5.
 * * *
 * *
 *
-```
-
-q6.
-```
-1 2 3 4 5
-1 2 3 4
-1 2 3
-1 2
-1
 ```
 
 will write notes tomorrow.
