@@ -13,11 +13,11 @@ q5.
 *
 ```
 
-now here we need to have an inverted right angled triangle, so whatever the n is, let's assume it's 5, so starting from 5 *s, we need to go down to 1 and stop.
+now here we need to have an inverted right angled triangle, so whatever the n is, let's assume it's 5, so starting from 5 stars, we need to go down to 1 and stop.
 
 so number of line here is 5, assume n. so it's sorted for outer loop that we need to print n number of lines.
 
-now for columns we, need to start from n columns all the way down to 1, everytime reducing one star from the line. 
+now for columns we need to start from n columns all the way down to 1, everytime reducing one star from the line. 
 
 the outer loop would be simple and look like our previous solutions like this:
 ```cpp
