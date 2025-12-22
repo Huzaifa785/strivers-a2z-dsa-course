@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 20th december 2025
+## today - 22nd december 2025
 
-so today: [day09: patterns part5](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day09-patterns-part5/notes.md) ✅
+so today: [day10: patterns part6](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day10-patterns-part6/notes.md) ✅
 
 ---
 
@@ -23,6 +23,7 @@ so today: [day09: patterns part5](https://github.com/Huzaifa785/strivers-a2z-dsa
 * [day07: patterns part3](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day07-patterns-part3/notes.md)
 * [day08: patterns part4](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day08-patterns-part4/notes.md)
 * [day09: patterns part5](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day09-patterns-part5/notes.md)
+* [day10: patterns part6](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day10-patterns-part6/notes.md)
 
 ## journey so far
 

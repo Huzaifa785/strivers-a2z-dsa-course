@@ -84,4 +84,4 @@ so yeah this was it for today, i made use of a bit different logic for this prog
 
 ---
 
-wrapping up 19th december 2025 and see you tomorrow!
+wrapping up 20th december 2025 and see you tomorrow!
