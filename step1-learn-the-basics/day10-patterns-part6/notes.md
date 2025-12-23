@@ -1,4 +1,4 @@
-## 22nd december 2025: patterns part 5
+## 22nd december 2025: patterns part 6
 
 ---
 
