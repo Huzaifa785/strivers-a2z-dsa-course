@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 5th january 2026
+## today - 1st april 2026
 
-so today: [day15: patterns part11](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day15-patterns-part11/notes.md) ✅
+so today: [day16: switched to python - setup, i/o and loops](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day16-python-setup/notes.md) ✅
 
 ---
 
@@ -29,7 +29,8 @@ so today: [day15: patterns part11](https://github.com/Huzaifa785/strivers-a2z-ds
 * [day13: patterns part9](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day13-patterns-part9/notes.md)
 * [day14: patterns part10](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day14-patterns-part10/notes.md)
 * [day15: patterns part11](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day15-patterns-part11/notes.md)
+* [day16: switched to python - setup, i/o and loops](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day16-python-setup/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-16-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-17-brightgreen)
