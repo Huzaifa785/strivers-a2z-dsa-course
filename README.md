@@ -7,7 +7,7 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ## today - 6th april 2026
 
-so today: [day21: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day21-patterns/patterns.py) ✅
+so today: [day21: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day21-patterns/notes.md) ✅
 
 ---
 
