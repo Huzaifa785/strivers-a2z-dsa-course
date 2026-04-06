@@ -34,8 +34,8 @@ so today: [day21: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-cours
 * [day18: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day18-patterns/notes.md)
 * [day19: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day19-patterns/patterns.py)
 * [day20: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day20-patterns/patterns.py)
-* [day21: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day21-patterns/patterns.py)
+* [day21: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day21-patterns/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-21-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-22-brightgreen)
