@@ -7,7 +7,6 @@ class Solution:
     # Pattern 19
     """
     **********
-
     ****  ****
     ***    ***
     **      **
@@ -16,7 +15,6 @@ class Solution:
     **      **
     ***    ***
     ****  ****
-
     **********  
     """
     def pattern19(self, N):
