@@ -10,6 +10,7 @@ today i started the basic math module, learnt about the extraction of digits, an
 ![notes - pg2](images/pg2.jpeg)
 ![notes - pg3](images/pg3.jpeg)
 ![notes - pg4](images/pg4.jpeg)
+![leetcode submission](images/leetcode.png)
 
 ---
 
