@@ -4,11 +4,11 @@
 
 ![notes - pg1](images/pg1.jpeg)
 ![notes - pg2](images/pg2.jpeg)
-![notes - pg3](images/pg2.jpeg)
-![notes - pg4](images/pg2.jpeg)
-![notes - pg5](images/pg2.jpeg)
-![notes - pg6](images/pg2.jpeg)
-![notes - pg7](images/pg2.jpeg)
+![notes - pg3](images/pg3.jpeg)
+![notes - pg4](images/pg4.jpeg)
+![notes - pg5](images/pg5.jpeg)
+![notes - pg6](images/pg6.jpeg)
+![notes - pg7](images/pg7.jpeg)
 
 ---
 
