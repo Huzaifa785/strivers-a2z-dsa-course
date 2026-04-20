@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 19th april 2026
+## today - 20th april 2026
 
-so today: [day26: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day26-basic-maths/notes.md) ✅
+so today: [day27: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day27-basic-maths/notes.md) ✅
 
 ---
 
@@ -40,7 +40,8 @@ so today: [day26: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-co
 * [day24: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day24-basic-maths/notes.md)
 * [day25: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day25-basic-maths/notes.md)
 * [day26: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day26-basic-maths/notes.md)
+* [day27: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day27-basic-maths/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-27-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-28-brightgreen)
