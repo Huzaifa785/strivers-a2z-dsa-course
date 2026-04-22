@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 21st april 2026
+## today - 22nd april 2026
 
-so today: [day28: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day28-basic-recursion/notes.md) ✅
+so today: [day29: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day29-basic-recursion/notes.md) ✅
 
 ---
 
@@ -18,7 +18,6 @@ so today: [day28: basic recursion](https://github.com/Huzaifa785/strivers-a2z-ds
 * [day02: c++ basics](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day02-c++basics/notes.md)
 * [day03: time complexity](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day03-time-complexity/notes.md)
 * [day04: space complexity](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day04-space-complexity/notes.md)
-
 * [day05: patterns part1](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day05-patterns-part1/notes.md)
 * [day06: patterns part2](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day06-patterns-part2/notes.md)
 * [day07: patterns part3](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day07-patterns-part3/notes.md)
@@ -30,24 +29,21 @@ so today: [day28: basic recursion](https://github.com/Huzaifa785/strivers-a2z-ds
 * [day13: patterns part9](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day13-patterns-part9/notes.md)
 * [day14: patterns part10](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day14-patterns-part10/notes.md)
 * [day15: patterns part11](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day15-patterns-part11/notes.md)
-
 * [day16: switched to python - setup, i/o and loops](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day16-python-setup/notes.md)
 * [day17: patterns revision in python](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day17-patterns-revision/notes.md)
-
 * [day18: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day18-patterns/notes.md)
 * [day19: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day19-patterns/patterns.py)
 * [day20: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day20-patterns/patterns.py)
 * [day21: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day21-patterns/notes.md)
 * [day22: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day22-patterns/notes.md)
 * [day23: patterns](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day23-patterns/notes.md)
-
 * [day24: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day24-basic-maths/notes.md)
 * [day25: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day25-basic-maths/notes.md)
 * [day26: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day26-basic-maths/notes.md)
 * [day27: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day27-basic-maths/notes.md)
-
 * [day28: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day28-basic-recursion/notes.md)
+* [day29: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day29-basic-recursion/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-29-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-30-brightgreen)
