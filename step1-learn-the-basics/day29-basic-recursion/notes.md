@@ -3,6 +3,7 @@
 ---
 
 ![notes - pg1](images/pg1.jpeg)
+![notes - pg2](images/pg2.jpeg)
 
 ---
 
