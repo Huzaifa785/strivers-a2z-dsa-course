@@ -25,6 +25,20 @@ class Solution:
         print(i, end=" ")
         self.solution3(i-1, N)
 
+    # Print 1 to N using Recursion (backtracking style)
+    def solution4(self, i, N):
+        if i < 1:
+            return
+        self.solution4(i-1, N)
+        print(i, end=" ")
+
+    # Print N to 1 using Recursion (backtracking style)
+    def solution5(self, i, N):
+        if i > N:
+            return
+        self.solution5(i+1, N)
+        print(i, end=" ")
+
 
 if __name__ == "__main__":
     sol = Solution() 
@@ -33,7 +47,11 @@ if __name__ == "__main__":
     
     # sol.solution2(1,N)
 
-    i = N
-    sol.solution3(i, N)
+    # i = N
+    # sol.solution3(i, N)
     # OR #
     # sol.solution3(N, N)
+
+    # sol.solution4(N, N)
+
+    sol.solution5(1, N)
