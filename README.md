@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 22nd april 2026
+## today - 23rd april 2026
 
-so today: [day29: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day29-basic-recursion/notes.md) ✅
+so today: [day30: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day30-basic-recursion/notes.md) ✅
 
 ---
 
@@ -42,8 +42,8 @@ so today: [day29: basic recursion](https://github.com/Huzaifa785/strivers-a2z-ds
 * [day26: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day26-basic-maths/notes.md)
 * [day27: basic maths](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day27-basic-maths/notes.md)
 * [day28: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day28-basic-recursion/notes.md)
-* [day29: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day29-basic-recursion/notes.md)
+* [day30: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day30-basic-recursion/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-30-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-31-brightgreen)
