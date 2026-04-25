@@ -1,10 +1,6 @@
 import sys
 input = sys.stdin.readline
 
-# reverse array input
-# n = int(input())
-# array_input = list(map(int, input().split(" ")))
-
 # palindrome input
 # n = list(input())
 
@@ -12,14 +8,6 @@ input = sys.stdin.readline
 n = int(input())
 
 class Solution:
-    # Reverse an array 
-    def solution1(self, i, arr, N):
-        if i >= N//2:
-            print(arr)
-            return
-        arr[i], arr[N-i-1] = arr[N-i-1], arr[i]
-        self.solution1(i+1, arr, N)
-
     # String palindrome
     def solution2(self, i, N):
         # approach 1
@@ -65,9 +53,6 @@ class Solution:
 if __name__ == "__main__":
     sol = Solution() 
     N = n
-    # arr = array_input
-
-    # sol.solution1(0, arr, N)
 
     # rev_arr = n.copy()
     # print(sol.solution2(0, N))
