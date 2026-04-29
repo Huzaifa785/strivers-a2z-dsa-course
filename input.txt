@@ -1,1 +1,9 @@
-10
+AABBDSCE
+7
+A
+B
+C
+D
+S
+E
+G
