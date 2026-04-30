@@ -1,9 +1,2 @@
-AABBDSCE
-7
-A
-B
-C
-D
-S
-E
-G
+5
+1 2 2 4 1
