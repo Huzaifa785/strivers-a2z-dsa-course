@@ -5,9 +5,9 @@ all solutions, notes, and daily progress are tracked here in a structured and or
 
 ---
 
-## today - 30th april 2026
+## today - 13th may 2026
 
-so today: [day34: basic hashing](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day34-basic-hashing/notes.md) ✅
+so today: [day35: sorting](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step2-sorting/day35-selection-sort/notes.md) ✅
 
 ---
 
@@ -47,7 +47,8 @@ so today: [day34: basic hashing](https://github.com/Huzaifa785/strivers-a2z-dsa-
 * [day32: basic recursion](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day32-basic-recursion/notes.md)
 * [day33: basic hashing](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day33-basic-hashing/notes.md)
 * [day34: basic hashing](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step1-learn-the-basics/day34-basic-hashing/notes.md)
+* [day35: sorting](https://github.com/Huzaifa785/strivers-a2z-dsa-course/blob/main/step2-sorting/day35-selection-sort/notes.md)
 
 ## journey so far
 
-![days completed](https://img.shields.io/badge/days_completed-35-brightgreen)
+![days completed](https://img.shields.io/badge/days_completed-36-brightgreen)
